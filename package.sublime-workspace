@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"spa",
+				"word-spacing"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"menu",
+				"mmenu/"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"mih-",
+				"min-height"
+			],
+			[
+				"ani",
+				"anim_block"
+			],
+			[
+				"an",
+				"anim_block"
+			],
+			[
+				"o",
+				"options_for_div_out"
+			],
+			[
+				"a",
+				"anim_block"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/myproject/.bowerrc",
+		"/D/myproject/package.json",
+		"/D/html/kara/index.html",
+		"/D/html/kara/js/common.js",
+		"/D/html/kara/product.html",
+		"/C/Users/relax/Desktop/universal-jquery-tabs-script/universal-jquery-tabs-script/tabs.js",
+		"/C/Users/relax/Desktop/universal-jquery-tabs-script/universal-jquery-tabs-script/index.html",
+		"/C/Users/relax/AppData/Local/Temp/Rar$EXa0.855/ready-html/app/index.html",
+		"/D/html/Shoes/index.html",
+		"/C/Users/relax/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/relax/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows1).sublime-keymap",
+		"/D/html/kara/css/normalize.css",
+		"/D/myproject/app/index.html",
+		"/D/myproject/gulpfile.js",
+		"/D/myproject/app/test.html",
+		"/D/myproject/dist/index.html",
+		"/C/Users/relax/Desktop/jquery-materials/jQuery/Урок 5. События и обработчики событий/003_Homework/H_Task1.html",
+		"/C/Users/relax/Desktop/jquery-materials/jQuery/Урок 5. События и обработчики событий/003_Homework/jquery-1.10.2.js",
+		"/D/myproject/app/sass/main.sass",
+		"/D/myproject/app/js/common.js",
+		"/D/myproject/app/css/main.css",
+		"/D/myproject/app/sass/_part.sass",
+		"/C/Program Files/Git/ReleaseNotes.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".gallery-img-b\n",
+			"}\n",
+			"cart-product-wrapper",
+			"margin-left: 10",
+			"margin-left: 10px ",
+			"owl",
+			"gallery-content-footer",
+			"radius",
+			"gallery-content-footer",
+			"=\"\"></",
+			";\n",
+			".about-us",
+			".popular-prod",
+			"15pt",
+			";\n",
+			"{\n",
+			"');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"15px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
